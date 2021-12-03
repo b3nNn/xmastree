@@ -80,7 +80,7 @@ Output:
    |||
 ```
 
-Command: `./xmastree 5`
+Command: `./xmastree 8`
 
 Output:
 ```
